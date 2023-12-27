@@ -1,0 +1,9 @@
+.imgCarrito {
+    width: 40px;
+}
+
+.cartContainer {
+    display: flex;
+    align-items: center;
+
+}

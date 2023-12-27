@@ -1,0 +1,18 @@
+header{
+    width: cover;
+    height: cover;
+    background-image:linear-gradient(to right, #c234dbd4, #17f6e4);
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 2px 5px 5px rgb(96, 86, 233);
+}
+
+li{
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+
+}
+
